@@ -8,7 +8,7 @@ De termen staan gesorteerd op alfabet.
  - *Disciplinemodel*: Model, of verzameling van modellen van een   bepaalde discipline van een gebouw (bijvoorbeeld constructie,  architect, etc). Disciplines (volgens NEN 2574) kunnen zijn: Bouwkundig; Constructie; Installatie (E,W,S enz.. zijn aspectmodellen); Inrichting (vaste en losse inrichting; meubels);Terrein.
  - *Geometrisch detailniveau*: aantal geometrische elementen per m3
  - *Leveranciermodellen*: Een aspectmodel gemaakt door een leverancier/producent. Dit is een model waarmee ook de productie wordt aangestuurd.
- - *LOD*: gebruiken we alleen om eindeloos over te discussiëren en frustraties te delen.
+ - *LOD*: gebruiken we alleen om eindeloos over te discussiëren en frustraties te delen. Omdat er geen goede definitie is van de term LOD levert dit veel te veel onduidelijkheid op. Om te voorkomen dat een eigen definitie een bijdrage levert aan de onduidelijkheid gebruiken we de *BIM Informatieniveaus*. Meer hierover op http://nationaalbimhandboek.nl/onderwerpen/informatieniveaus/
  - *Modelleerapplicatie*: software waarmee BIM data wordt opgebouwd/bewerkt. 
  - *Ontwerpmodel / ‘as designed’*: Zoals ontworpen. Model op en met status informatieniveau 3. 
  - *Referentiemodel*: (gedeelte van) een of meerdere modellen (van een   ander)  wat als referentie wordt gebruikt bij het modelleren. Dit  model bevat informatie wat nodig is voor een gebruiker om zijn aspect in te vullen.
